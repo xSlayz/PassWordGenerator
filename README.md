@@ -11,4 +11,4 @@
 
 -----
 
-### <p align="center">xDryter</p>
+### <p align="center">xSlayz</p>
